@@ -1,2 +1,2 @@
-# ml-templates
+# Machine Learning Algorithms Template
 Machine Learning Algorithms Template
