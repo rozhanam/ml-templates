@@ -6,10 +6,10 @@ Repository contains some machine learning algorithm applications in a simplified
 Note: Data used in all the projects is for demonstration purposes only.
 
 # Contents
-# Regression
-# Classification
-# Association Rule Learning 
- (https://github.com/rozhanam/ml-templates/blob/master/Apriori.ipynb)  : Optimizing a sales in a grocerry store by association rule learning.
+### Regression
+### Classification
+### Association Rule Learning 
+ [Apriori Algorithm](https://github.com/rozhanam/ml-templates/blob/master/Apriori.ipynb)  : Optimizing a sales in a grocerry store by association rule learning.
 
  
 
