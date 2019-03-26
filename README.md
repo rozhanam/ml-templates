@@ -9,7 +9,7 @@ Note: Data used in all the projects is for demonstration purposes only.
 ### Regression
 ### Classification
 ### Association Rule Learning 
- [Apriori Algorithm](https://github.com/rozhanam/ml-templates/blob/master/Apriori.ipynb)  : Optimizing a sales in a grocerry store by association rule learning.
+ [Apriori Algorithm](https://github.com/rozhanam/ml-templates/blob/master/Apriori.ipynb)  : Optimizing sales in a grocerry store by association rule learning.
 
  
 
