@@ -8,6 +8,7 @@ Note: Data used in all the projects is for demonstration purposes only.
 # Contents
 ### Regression
 ### Classification
+ [Logistic Regression](https://github.com/rozhanam/ml-templates/blob/master/logistic_regression.ipynb) : Classify the customers based on their age and salary and model over their reaction to a social network ad.
 ### Association Rule Learning 
  [Apriori Algorithm](https://github.com/rozhanam/ml-templates/blob/master/Apriori.ipynb)  : Optimizing sales by finiding the fequent item set in a grocerry store by association rule learning over transactional data.
 
